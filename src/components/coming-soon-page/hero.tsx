@@ -22,7 +22,7 @@ export default function Hero() {
           <Image
             src={Logo}
             alt="logo"
-            className="mx-auto w-28 pt-8"
+            className="mx-auto mt-8 w-40"
             style={{ objectFit: "cover" }}
             placeholder="blur"
           />
