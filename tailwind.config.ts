@@ -5,6 +5,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        white: "#FDF7FA",
         orange: {
           500: "#FF5C00",
         },
