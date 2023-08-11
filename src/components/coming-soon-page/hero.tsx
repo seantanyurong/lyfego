@@ -12,6 +12,8 @@ export default function Hero() {
           alt="tennis court"
           className="mx-auto h-screen"
           style={{ objectFit: "cover" }}
+          priority={true}
+          loading="eager"
           placeholder="blur"
         />
       </div>
