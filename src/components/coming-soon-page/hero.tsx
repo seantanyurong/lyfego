@@ -32,7 +32,7 @@ export default function Hero() {
             className="mb-6 block text-4xl font-bold leading-none text-white md:text-[3em]"
             data-aos="zoom-y-out"
           >
-            <Balancer>Our Website is Undergoing Maintenance.</Balancer>
+            <Balancer>We will be relaunching in October. Stay tuned!</Balancer>
           </h1>
           <div className="mx-auto max-w-3xl">
             <p
